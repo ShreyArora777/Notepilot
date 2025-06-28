@@ -1,2 +1,1 @@
-# Notepilot
-( Spurhacks ) ai cheatsheet generator
+# NotePilot

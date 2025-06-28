@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pdf2image
+pytesseract
+Pillow
+google-generativeai
+
